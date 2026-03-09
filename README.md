@@ -13,7 +13,7 @@ go run .
 
 ## Authors
 
-- [@octokatherine](https://github.com/alf4ridzi/hypnos)
+- [@alf4ridzi](https://github.com/alf4ridzi)
 
 
 ## License
