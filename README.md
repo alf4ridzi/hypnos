@@ -1,7 +1,7 @@
 
 # Hypnos
 
-Hypnos is a simple script that let you scraping number telphone, place name, and address from google maps with auto click and scroll
+Hypnos is a simple script that let you scraping phone number, place name, and address from google maps with auto click and scroll
 
 # Installation
 Make sure you already install golang v1.26+
